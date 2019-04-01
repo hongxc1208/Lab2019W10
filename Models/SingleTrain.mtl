@@ -1,0 +1,205 @@
+newmtl BreakerFBXASC032BoxSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl BreakerFBXASC032BoxSG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl BreakerFBXASC032BoxSG2
+illum 4
+Kd 0.16 0.83 1.00
+Ka 0.07 0.35 0.41
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 54.25
+newmtl DoorFBXASC032SealFBXASC0322SG
+illum 4
+Kd 0.48 1.00 0.97
+Ka 0.44 0.44 0.44
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 47.00
+newmtl FloorSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 98.00
+newmtl FloorSG1
+illum 4
+Kd 0.07 0.81 1.00
+Ka 0.14 0.38 0.44
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 54.25
+newmtl LeftFBXASC032HandleSG
+illum 4
+Kd 0.35 0.35 0.35
+Ka 0.25 0.25 0.25
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+newmtl MainFBXASC032ShellSG
+illum 4
+Kd 0.35 0.70 0.80
+Ka 0.00 0.00 0.00
+Tf 0.21 0.21 0.21
+Ni 1.00
+Ks 0.27 0.27 0.27
+Ns 83.97
+newmtl MainFBXASC032ShellSG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 54.25
+newmtl MainFBXASC032ShellSG2
+illum 4
+Kd 0.31 0.67 0.80
+Ka 0.00 0.00 0.00
+Tf 0.11 0.11 0.11
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 54.25
+newmtl RIGHTFBXASC032SEATSG
+illum 4
+Kd 0.16 0.83 1.00
+Ka 0.18 0.18 0.18
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 60.17
+newmtl RIGHTFBXASC032SEATSG1
+illum 4
+Kd 0.10 0.10 0.10
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 54.25
+newmtl blinn3SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 0.66 0.66 0.66
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl outerFBXASC032circSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 98.00
+newmtl pasted__BreakerFBXASC032BoxSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl pasted__BreakerFBXASC032BoxSG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl pasted__BreakerFBXASC032BoxSG2
+illum 4
+Kd 0.16 0.83 1.00
+Ka 0.07 0.35 0.41
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 54.25
+newmtl pasted__DoorFBXASC032SealFBXASC0322SG
+illum 4
+Kd 0.48 1.00 0.97
+Ka 0.61 0.61 0.61
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 47.00
+newmtl pasted__FloorSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 98.00
+newmtl pasted__FloorSG1
+illum 4
+Kd 0.07 0.81 1.00
+Ka 0.14 0.38 0.44
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 54.25
+newmtl pasted__LeftFBXASC032HandleSG
+illum 4
+Kd 0.35 0.35 0.35
+Ka 0.25 0.25 0.25
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+newmtl pasted__MainFBXASC032ShellSG
+illum 4
+Kd 0.35 0.70 0.80
+Ka 0.00 0.00 0.00
+Tf 0.21 0.21 0.21
+Ni 1.00
+Ks 0.27 0.27 0.27
+Ns 83.97
+newmtl pasted__MainFBXASC032ShellSG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 54.25
+newmtl pasted__MainFBXASC032ShellSG2
+illum 4
+Kd 0.31 0.67 0.80
+Ka 0.00 0.00 0.00
+Tf 0.11 0.11 0.11
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 54.25
+newmtl pasted__RIGHTFBXASC032SEATSG
+illum 4
+Kd 0.16 0.83 1.00
+Ka 0.45 0.45 0.45
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 60.17
+newmtl pasted__outerFBXASC032circSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 98.00

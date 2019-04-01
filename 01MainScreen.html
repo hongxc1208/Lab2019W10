@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+.responsive {
+  width: 100%
+  height: auto;
+}
+
+.column{
+	float:left;
+	width:28%;
+	padding: 5px;
+  transform: translate(40px, -330px);
+}
+.row::after{
+	content:"";
+	clear:both;
+	display:table;
+}
+
+#button1 {
+  position:relative;
+}
+
+
+</style>
+</head>
+<body>
+
+ <div>
+	<img src="Scene/01SignInBackground.png" alt="Nature" class="responsive" width="100%" height="100%">
+</div>
+
+
+<div class="row" id="button1">
+  <form class = "column" action="02Main.html">
+      <input type="image" src="Scene/Facebook.png" alt="Submit" width="50" height="50">
+  </form>
+  <form  class = "column" action="02Main.html">
+      <input type="image" src="Scene/Instagram.png" alt="Submit" width="50" height="50">
+  </form>
+  <form class = "column" action="02Main.html">
+      <input type="image" src="Scene/Google.png" alt="Submit" width="50" height="50">
+  </form>
+</div>
+
+
+
+</body>
+</html>
+
